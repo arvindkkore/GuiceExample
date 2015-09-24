@@ -34,6 +34,7 @@ public class MainActivity extends RoboActivity { //AppCompatActivity {
         super.onCreate(savedInstanceState);
        // setContentView(R.layout.activity_main);
         username.setText("Hello ."+myName);
+        //hello world
         imageView.setImageDrawable(icon);
     }
 
